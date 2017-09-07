@@ -1,6 +1,7 @@
 #!/bin/bash
 # coding: UTF-8
 #Script to get the interface or ip
+#Version: 1
 
 #functions
 Useage(){
